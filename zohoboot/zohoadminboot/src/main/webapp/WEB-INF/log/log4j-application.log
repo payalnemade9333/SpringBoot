@@ -1,0 +1,96 @@
+2018-07-17 15:45:17 INFO  LoginController:41 - Inside controller : log
+2018-07-17 15:52:45 INFO  LoginController:40 - Inside controller
+2018-07-17 15:52:45 INFO  LoginController:41 - Inside controller : log
+2018-07-17 15:52:51 INFO  LoginController:55 - inside SignIn Action
+2018-07-17 15:52:51 INFO  LoginController:56 - hgriug
+2018-07-17 15:52:51 INFO  LoginController:57 - fhgewiu
+2018-07-17 15:52:51 WARN  LoginService:20 - Inside Service : Login
+2018-07-17 15:52:51 WARN  LoginService:22 - hgriug
+2018-07-17 15:52:51 WARN  LoginService:23 - fhgewiu
+2018-07-17 15:52:51 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-17 15:52:51 DEBUG LoginRepository:20 - hgriug
+2018-07-17 15:52:51 DEBUG LoginRepository:21 - fhgewiu
+2018-07-19 12:37:14 INFO  LoginController:40 - Inside controller
+2018-07-19 12:37:14 INFO  LoginController:41 - Inside controller : log
+2018-07-19 14:55:54 WARN  LoginService:20 - Inside Service : Login
+2018-07-19 14:55:55 WARN  LoginService:22 - abc
+2018-07-19 14:55:55 WARN  LoginService:23 - 12345
+2018-07-19 14:55:55 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-19 14:55:55 DEBUG LoginRepository:20 - abc
+2018-07-19 14:55:55 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:01:48 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:01:48 WARN  LoginService:22 - abc
+2018-07-21 15:01:48 WARN  LoginService:23 - 12345
+2018-07-21 15:01:48 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:01:48 DEBUG LoginRepository:20 - abc
+2018-07-21 15:01:48 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:12:57 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:12:57 WARN  LoginService:22 - abc
+2018-07-21 15:12:57 WARN  LoginService:23 - 12345
+2018-07-21 15:12:57 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:12:57 DEBUG LoginRepository:20 - abc
+2018-07-21 15:12:57 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:32:39 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:32:39 WARN  LoginService:22 - abc
+2018-07-21 15:32:39 WARN  LoginService:23 - 12345
+2018-07-21 15:32:39 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:32:39 DEBUG LoginRepository:20 - abc
+2018-07-21 15:32:39 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:45:36 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:45:36 WARN  LoginService:22 - abc
+2018-07-21 15:45:36 WARN  LoginService:23 - 12345
+2018-07-21 15:45:36 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:45:36 DEBUG LoginRepository:20 - abc
+2018-07-21 15:45:36 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:55:01 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:55:01 WARN  LoginService:22 - abc
+2018-07-21 15:55:01 WARN  LoginService:23 - 12345
+2018-07-21 15:55:01 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:55:01 DEBUG LoginRepository:20 - abc
+2018-07-21 15:55:01 DEBUG LoginRepository:21 - 12345
+2018-07-21 16:03:27 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 16:03:27 WARN  LoginService:22 - abc
+2018-07-21 16:03:27 WARN  LoginService:23 - 12345
+2018-07-21 16:03:27 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 16:03:27 DEBUG LoginRepository:20 - abc
+2018-07-21 16:03:27 DEBUG LoginRepository:21 - 12345
+2018-07-21 17:00:16 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 17:00:16 WARN  LoginService:22 - abc
+2018-07-21 17:00:16 WARN  LoginService:23 - 12345
+2018-07-21 17:00:16 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 17:00:16 DEBUG LoginRepository:20 - abc
+2018-07-21 17:00:16 DEBUG LoginRepository:21 - 12345
+2018-07-21 17:02:57 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 17:02:57 WARN  LoginService:22 - abc
+2018-07-21 17:02:57 WARN  LoginService:23 - 12345
+2018-07-21 17:02:57 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 17:02:57 DEBUG LoginRepository:20 - abc
+2018-07-21 17:02:57 DEBUG LoginRepository:21 - 12345
+2018-07-21 17:05:06 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 17:05:06 WARN  LoginService:22 - abc
+2018-07-21 17:05:06 WARN  LoginService:23 - 12345
+2018-07-21 17:05:06 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 17:05:06 DEBUG LoginRepository:20 - abc
+2018-07-21 17:05:06 DEBUG LoginRepository:21 - 12345
+2018-07-26 20:40:19 INFO  LoginController:40 - Inside controller
+2018-07-26 20:40:19 INFO  LoginController:41 - Inside controller : log
+2018-07-26 20:40:31 INFO  LoginController:55 - inside SignIn Action
+2018-07-26 20:40:31 INFO  LoginController:56 - taksh
+2018-07-26 20:40:31 INFO  LoginController:57 - 1234
+2018-07-26 20:40:31 WARN  LoginService:20 - Inside Service : Login
+2018-07-26 20:40:31 WARN  LoginService:22 - taksh
+2018-07-26 20:40:31 WARN  LoginService:23 - 1234
+2018-07-26 20:40:31 DEBUG LoginRepository:21 - Inside Repository : Login
+2018-07-26 20:40:31 DEBUG LoginRepository:23 - taksh
+2018-07-26 20:40:31 DEBUG LoginRepository:24 - 1234
+2018-07-28 15:27:25 INFO  LoginController:40 - Inside controller
+2018-07-28 15:27:25 INFO  LoginController:41 - Inside controller : log
+2018-07-28 15:27:52 INFO  LoginController:55 - inside SignIn Action
+2018-07-28 15:27:52 INFO  LoginController:56 - patidar@gmail.com
+2018-07-28 15:27:52 INFO  LoginController:57 - 147852
+2018-07-28 15:27:52 WARN  LoginService:20 - Inside Service : Login
+2018-07-28 15:27:52 WARN  LoginService:22 - patidar@gmail.com
+2018-07-28 15:27:52 WARN  LoginService:23 - 147852
+2018-07-28 15:27:52 DEBUG LoginRepository:21 - Inside Repository : Login
+2018-07-28 15:27:52 DEBUG LoginRepository:23 - patidar@gmail.com
+2018-07-28 15:27:52 DEBUG LoginRepository:24 - 147852
